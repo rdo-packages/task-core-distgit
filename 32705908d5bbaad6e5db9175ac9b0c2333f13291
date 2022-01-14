@@ -22,6 +22,30 @@
       "revId": "32705908d5bbaad6e5db9175ac9b0c2333f13291",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "f4e8fdce_d0422687",
+        "filename": "task-core.spec",
+        "patchSetId": 7
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 96
+      },
+      "writtenOn": "2022-01-14T20:02:54Z",
+      "side": 1,
+      "message": "yea, i was wondering. i\u0027ll move it.",
+      "parentUuid": "864f2f3c_584b6956",
+      "range": {
+        "startLine": 70,
+        "startChar": 0,
+        "endLine": 70,
+        "endChar": 28
+      },
+      "revId": "32705908d5bbaad6e5db9175ac9b0c2333f13291",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": true
     }
   ]
 }
