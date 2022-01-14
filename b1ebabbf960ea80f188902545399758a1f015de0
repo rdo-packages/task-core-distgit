@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "6de1eee6_b725a7d7",
+        "filename": "task-core.spec",
+        "patchSetId": 4
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 96
+      },
+      "writtenOn": "2022-01-14T12:18:08Z",
+      "side": 1,
+      "message": "these should be Requires. will change.",
+      "parentUuid": "a9603c50_b17b35ef",
+      "range": {
+        "startLine": 20,
+        "startChar": 0,
+        "endLine": 21,
+        "endChar": 32
+      },
+      "revId": "b1ebabbf960ea80f188902545399758a1f015de0",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "032a39df_94455e30",
         "filename": "task-core.spec",
         "patchSetId": 4
@@ -36,6 +60,30 @@
       "writtenOn": "2022-01-14T11:10:31Z",
       "side": 1,
       "message": "What\u0027s the purpose of the main task-core package? i just see it creates directory in datadir but both the python module and binary is in python3- one. I\u0027m not sure if the goal is to just treat it as a metapackage to install it?",
+      "range": {
+        "startLine": 66,
+        "startChar": 0,
+        "endLine": 66,
+        "endChar": 1
+      },
+      "revId": "b1ebabbf960ea80f188902545399758a1f015de0",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "c4561dcc_7acc779a",
+        "filename": "task-core.spec",
+        "patchSetId": 4
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 96
+      },
+      "writtenOn": "2022-01-14T12:18:08Z",
+      "side": 1,
+      "message": "it\u0027s just a metapackage. I agree it\u0027s not much use without changing the earlier lines to Requires. will do so.",
+      "parentUuid": "032a39df_94455e30",
       "range": {
         "startLine": 66,
         "startChar": 0,
