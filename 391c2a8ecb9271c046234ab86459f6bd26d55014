@@ -93,6 +93,30 @@
       "revId": "391c2a8ecb9271c046234ab86459f6bd26d55014",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "dd5fa5dd_1736eee7",
+        "filename": "task-core.spec",
+        "patchSetId": 6
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 128
+      },
+      "writtenOn": "2022-01-17T14:56:10Z",
+      "side": 1,
+      "message": "Makes it sense to have task-core package at all? shouldn\u0027t be easier to just make python3- package to own %{datadir}/%{name}?\n\nwe can merge it if you think there is any reason for it, but i\u0027m not sure if it has any advantage to keep it separated.",
+      "parentUuid": "6cd007c2_54980ded",
+      "range": {
+        "startLine": 79,
+        "startChar": 0,
+        "endLine": 79,
+        "endChar": 1
+      },
+      "revId": "391c2a8ecb9271c046234ab86459f6bd26d55014",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": true
     }
   ]
 }
