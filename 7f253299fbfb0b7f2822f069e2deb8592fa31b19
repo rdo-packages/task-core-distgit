@@ -22,6 +22,30 @@
       "revId": "7f253299fbfb0b7f2822f069e2deb8592fa31b19",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "c6c945f9_681b6157",
+        "filename": "task-core.spec",
+        "patchSetId": 10
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 96
+      },
+      "writtenOn": "2022-01-18T14:33:08Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a87f93bc_2803088f",
+      "range": {
+        "startLine": 18,
+        "startChar": 0,
+        "endLine": 18,
+        "endChar": 1
+      },
+      "revId": "7f253299fbfb0b7f2822f069e2deb8592fa31b19",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
     }
   ]
 }
