@@ -1,0 +1,9 @@
+Code-Review+2: Alfredo Moralejo <amoralej@redhat.com>
+Code-Review+2: Alex Schultz <aschultz@next-development.com>
+Workflow+1: Alex Schultz <aschultz@next-development.com>
+Verified+2: Zuul CI <zuul@review.rdoproject.org>
+Submitted-by: Zuul CI <zuul@review.rdoproject.org>
+Submitted-at: Tue, 18 Jan 2022 17:29:11 +0000
+Reviewed-on: https://review.rdoproject.org/r/c/openstack/task-core-distgit/+/38107
+Project: openstack/task-core-distgit
+Branch: refs/heads/rpm-master
