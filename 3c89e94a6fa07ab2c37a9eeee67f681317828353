@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0015552a_a43ff774",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 11
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 128
+      },
+      "writtenOn": "2022-01-18T16:57:17Z",
+      "side": 1,
+      "message": "Package is approved in https://bugzilla.redhat.com/show_bug.cgi?id\u003d2021983",
+      "revId": "3c89e94a6fa07ab2c37a9eeee67f681317828353",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    }
+  ]
+}
