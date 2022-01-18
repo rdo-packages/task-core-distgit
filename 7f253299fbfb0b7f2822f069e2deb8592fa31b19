@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "a87f93bc_2803088f",
+        "filename": "task-core.spec",
+        "patchSetId": 10
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 128
+      },
+      "writtenOn": "2022-01-18T14:20:40Z",
+      "side": 1,
+      "message": "You need to add python3-devel to make sure you get the basic python stuff and macros installed in BR:\n\nBuildRequires: python3-devel\n\nhttps://docs.fedoraproject.org/en-US/packaging-guidelines/Python/#_buildrequire_python3_devel",
+      "range": {
+        "startLine": 18,
+        "startChar": 0,
+        "endLine": 18,
+        "endChar": 1
+      },
+      "revId": "7f253299fbfb0b7f2822f069e2deb8592fa31b19",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": true
+    }
+  ]
+}
